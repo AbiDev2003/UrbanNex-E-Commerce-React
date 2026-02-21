@@ -8,30 +8,30 @@ export default [
     },
     { 
         id: 2, 
-        name: 'Abhisek Dash', 
+        name: 'Damodar Dash', 
         position: 'Backend Developer', 
         about: "Junior bacckend dev with 3 years of experience.Passionate about writing clean code by keeping privacy and security as top priority. ", 
-        image: '/images/abhisek.jpg'
+        image: '/images/demo.jpg'
     },
     { 
         id: 3, 
-        name: 'Saswat Pal', 
+        name: 'John Doe', 
         position: 'Senior Backend Developer' , 
         about:"SDE with 8 years of experience. Review the entire codebase and help in approval. Handles devops and advanced backend. ", 
-        image: '/images/saswat.jpg'
+        image: '/images/demo.jpg'
     },
     { 
         id: 4, 
-        name: 'Ramakanta Rout', 
+        name: 'Swadhin Rout', 
         position: 'GenAI Developer', 
         about:"SDE with 9 years of experience. Part of decision making team and give innovative AI solution. ", 
-        image: '/images/ramakanta.jpg'
+        image: '/images/demo.jpg'
     },
     { 
         id: 5, 
-        name: 'Colt Steele', 
+        name: 'Colt Fernandez', 
         position: 'Tutor and mentor', 
         about: "No introduction needed. top mentor and tutor among software enginers and corporate working professionals. " , 
-        image: '/images/colt.jpg'
+        image: '/images/demo.jpg'
     },
   ];
