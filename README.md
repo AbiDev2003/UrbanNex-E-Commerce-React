@@ -1,6 +1,8 @@
-# Ecommerce Landing Page - React + Tailwind
+# UrbanNex - Responsive E-commerce landing page
 
 A modern, responsive ecommerce landing page built with React, Vite, and Tailwind CSS. This project demonstrates conditional rendering, component-based architecture, and responsive design principles.
+
+---
 
 ## 🚀 Features
 
@@ -15,11 +17,14 @@ A modern, responsive ecommerce landing page built with React, Vite, and Tailwind
 - **Modern UI**: Built with Tailwind CSS for sleek, contemporary design
 - **Mobile-First**: Optimized for all screen sizes
 
+---
+
 ## 🛠️ Tech Stack
 
-- **React** - JavaScript library
-- **Vite** - Build tool and dev server
-- **Tailwind CSS** - Utility-first CSS framework
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ## 📁 Component Structure
 
@@ -54,6 +59,7 @@ graph TD
 - **Dashboard.jsx** (blue box) is the most complex page with 3 child components
 - **UserDetailCardSection.jsx** further imports **UserDetails.jsx**
 
+---
 
 ## 🎯 Key Learning Points
 
@@ -64,6 +70,8 @@ graph TD
 - Mobile-first approach with hamburger menu
 - Component-based architecture
 
+---
+
 ## 🔮 Future Enhancements
 
 - Add routing with React Router
@@ -73,14 +81,19 @@ graph TD
 - User Authentication with security
 - Add animations and transitions
 
+---
+
 ## 👤 Author
 
 Abinash Dash
 - GitHub: [@AbiDev2003](https://github.com/AbiDev2003)
 - LinkedIn: [Abinash Dash](https://linkedin.com/in/abinashDev)
 
-## 🔗 Live Link
-- Website Link: [urbannex.com](https://react-project-ecommerce-landing-pag.vercel.app/)
 ---
 
-⭐ Let's connect and grow together !
+## 🔗 Live Link
+- Website Link: [urbannex.vercel.app](https://urbannex.vercel.app/)
+
+---
+
+⭐ Let's connect and grow together. Feel free to give feedbacks !
